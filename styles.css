@@ -1,0 +1,79 @@
+/* Apply styles to the body */
+body {
+    font-family: Arial, sans-serif;
+    
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the header (your name) */
+header {
+    text-align: center;
+
+    padding: 20px;
+}
+
+/* Style the photo */
+img.photo {
+    display: block;
+    margin: 0 auto;
+    border: 2px solid #333;
+}
+
+/* Style the "About Me" section */
+section {
+    text-align: center;
+    padding: 20px;
+}
+
+/* Style the "Want To Connect?!" section */
+form {
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+}
+
+input[type="submit"] {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+/* Style the "I will connect with you" text */
+.p.tan2 {
+    text-align: center;
+}
+
+/* Style the Instagram link */
+a {
+    text-align: center;
+    display: block;
+    margin-top: 20px;
+    text-decoration: none;
+    color: #333;
+}
+
+img.tan3 {
+    vertical-align: middle;
+    margin-right: 10px;
+    display: block;
+    margin: auto;
+}
+
+/* Apply styles to links */
+a:hover {
+    color: #666;
+    text-align: center;
+}
